@@ -1,4 +1,5 @@
 version: 0.1
+
 phases:
   build:
     commands:
@@ -10,3 +11,9 @@ artifacts:
     - css/*
     - js/*
     - img/*
+    - 404.html
+    - browserconfig.xml
+    - humans.txt
+    - LICENSE.txt
+    - robots.txt
+    - site.webmanifest
